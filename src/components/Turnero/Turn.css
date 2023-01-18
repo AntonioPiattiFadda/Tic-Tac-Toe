@@ -1,0 +1,17 @@
+.turn{
+    width: 320px;
+    height: 46px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+}
+.turn-o{
+    background-color: #4392f1;
+}
+.turn-x{
+    background-color: #CD493A;
+}
