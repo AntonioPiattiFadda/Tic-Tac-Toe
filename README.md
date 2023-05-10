@@ -17,6 +17,6 @@ This is a beautifull game that i have done with React. I have learned a lot abou
 
 If your are intrested on visiting the web site [click here](https://tic-tac-toe-ruby-xi.vercel.app/ "click here")
 
-Enjoy this simple but very fun game! 
+Enjoy this simple but very funny game! 
 
 Thank you for visiting my repositorie.
